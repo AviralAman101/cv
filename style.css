@@ -32,6 +32,18 @@ tbody{
   border: hidden;
 }
 
+.contact{
+  height: 80px;
+  text-align: center;
+  margin: auto;
+}
+
+.email{
+  display: block;
+
+  margin-top: 30px;
+}
+
 .font-custom{
   font-family: 'Redressed', cursive;
 }
